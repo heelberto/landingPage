@@ -17,3 +17,42 @@
   text-decoration: none;
   margin: 10px;
 }
+
+.hero-main-container {
+  background-color: #1f2937;
+  display: flex;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hero-main-container h1 {
+  color: #f9faf8;
+  font-size: 48px;
+  font-weight: bolder;
+}
+
+.hero-main-container p {
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.hero-main-container button {
+  background-color: #3882f6;
+  color: #f9faf8;
+}
+
+.hero-main-container img {
+  height: 300px;
+}
+
+.left {
+  flex: 1;
+  padding: 120px;
+}
+
+.right {
+  flex: 1;
+  padding: 120px;
+}
