@@ -62,6 +62,7 @@
   padding: 120px;
 }
 
+<<<<<<< HEAD
 .hero-secondary-container {
   text-align: center;
 }
@@ -96,3 +97,10 @@
   margin: 10px;
   width: 150px;
 }
+=======
+.left button {
+  height: 30px;
+  width: 100px;
+  border-radius: 8px;
+}
+>>>>>>> eddc89a8e22d24755be09cfffbc580ca6c295c78
