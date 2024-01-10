@@ -62,7 +62,6 @@
   padding: 120px;
 }
 
-<<<<<<< HEAD
 .hero-secondary-container {
   text-align: center;
 }
@@ -97,10 +96,25 @@
   margin: 10px;
   width: 150px;
 }
-=======
-.left button {
-  height: 30px;
-  width: 100px;
-  border-radius: 8px;
+
+.quote-container{
+  background-color: #e5e7eb;
+  font-size: 36px;
+  font-weight: light;
+  color: #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
 }
->>>>>>> eddc89a8e22d24755be09cfffbc580ca6c295c78
+
+.quote-container-text {
+  text-align: center;
+  width: 750px;
+}
+
+.quote-container-author{
+  text-align: end;
+  font-weight: bold;
+  font-size: 32px;
+}
