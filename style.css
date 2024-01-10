@@ -118,3 +118,49 @@
   font-weight: bold;
   font-size: 32px;
 }
+
+.call-to-action-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+
+.call-to-action-blue{
+  display: flex;
+  background-color: #3882f6;
+  width: 800px;
+  height: 150px;
+  border-radius: 12px;
+  justify-content: space-around;
+}
+
+.call-to-action-item-left{
+  color: #e5e7eb;
+  font-weight: bold;
+  margin-top: 25px;
+}
+
+.call-to-action-item-right{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.call-to-action-item-right button{
+  background-color: #3882f6;
+  border: 2px solid white;
+  color: #e5e7eb;
+  border-radius: 4px;
+  width: 110px;
+  height: 30px;
+}
+
+.footer-container{
+  display: flex;
+  background-color: #1f2937;
+  color: white;
+  align-items: center;
+  justify-content: center;
+
+}
